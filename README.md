@@ -13,9 +13,9 @@
  For Ex 
      
  What is your favorite sport?  
-  How it renders         Codes  
- - `basketball`         - `basketball`  
- + `baseball`           + `baseball`.
+    Codes  
+  - `basketball`  
+  + `baseball`.
  
   
  
