@@ -13,8 +13,8 @@
  For Ex 
      
      What is your favorite sport?
-     -basketball
-     +baseball
+     - basketball
+     + baseball
  
   
  
