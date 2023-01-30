@@ -9,7 +9,7 @@
  Markdown elements is important because you can use it to format or structure your content.
   Using Markdown elements is very similar to html.
  It is for the most part, simple and straight foward. 
- If you want to create an heading simply put ## ## around the content.
+ If you want to create an heading simply put a # in front of the content.
  For Ex 
-        ##Hello##
+        #Hello
  
