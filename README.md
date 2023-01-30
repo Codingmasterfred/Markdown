@@ -11,5 +11,5 @@
  It is for the most part, simple and straight foward. 
  If you want to create an heading simply put a # in front of the content.
  For Ex 
-        #Hello
+        # Hello
  
