@@ -1,4 +1,5 @@
-### Having a growth mindset in my opinion is being open to criticism and being open minded in any situation.
-The three reminders i will give myself is to firstly, Not let my emotions effect my decision.
+## Having a growth mindset in my opinion is being open to criticism and being open minded in any situation.
+#The three reminders i will give myself is to 
+First item. firstly, Not let my emotions effect my decision.
 Secondly, Is to be open minded and try to see their ideas from their perspective.
 lastly, I will fairly compare my ideas with their ideas.
