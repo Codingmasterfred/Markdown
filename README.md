@@ -13,8 +13,9 @@
  For Ex 
      
  What is your favorite sport?
- - basketball
- + baseball
+  How it renders        Codes
+ - basketball       - basketball
+ + baseball         + baseball
  
   
  
