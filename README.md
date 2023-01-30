@@ -12,9 +12,9 @@
  If you want to create an unorder list of item simply put a + or an - in front of the item of the list 
  For Ex 
      
- What is your favorite sport?
-  How it renders         Codes.
- - basketball         - basketball.
+ What is your favorite sport?  
+  How it renders         Codes  
+ - basketball         - basketball  
  + baseball           + baseball.
  
   
