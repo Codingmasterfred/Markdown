@@ -14,8 +14,8 @@
      
  What is your favorite sport?  
   How it renders         Codes  
- - basketball         - basketball  
- + baseball           + baseball.
+ - `basketball`         - `basketball`  
+ + `baseball`           + `baseball`.
  
   
  
